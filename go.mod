@@ -1,4 +1,4 @@
-module booking/logger
+module github.com/TranQuangPhong/hotel-booking-logger
 
 go 1.25.5
 
